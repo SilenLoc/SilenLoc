@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm try to code clean
+I try to code clean in every lanuage
 
 
 
@@ -23,7 +23,7 @@ Currently learning Rust
     height="25"
   />
 </a>
-<a href="https://css3.com" target="_blank" rel="noreferrer noopener">
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer noopener">
   <img
     src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/kotlin.svg"
     alt="CSS3"
@@ -31,7 +31,14 @@ Currently learning Rust
     height="25"
   />
 </a>
-
+<a href="https://www.java.com/" target="_blank" rel="noreferrer noopener">
+  <img
+    src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/java.svg"
+    alt="CSS3"
+    width="25"
+    height="25"
+  />
+</a>
 
 
 ![Metrics](https://raw.githubusercontent.com/SilenLoc/SilenLoc/metrics/github-metrics.svg)
