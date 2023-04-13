@@ -41,4 +41,4 @@ Currently learning Rust
 </a>
 
 
-![Metrics](https://raw.githubusercontent.com/SilenLoc/SilenLoc/metrics/github-metrics.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilenLoc)](https://github.com/anuraghazra/github-readme-stats)
