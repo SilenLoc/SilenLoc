@@ -27,11 +27,11 @@ jobs:
           # Options
           filename: github-metrics.svg
           committer_branch: metrics
-          user: jewlexx
+          user: SilenLoc
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          config_timezone: Australia/Sydney
+          config_timezone: Central European Time
           plugin_code: yes
           plugin_code_days: 3
           plugin_code_lines: 12
