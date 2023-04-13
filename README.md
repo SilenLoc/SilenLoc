@@ -2,12 +2,9 @@
 
 # Hi, I'm Silen!
 
-## 🔗 Links
-
-
 ## 🚀 About Me
 
-I try to code clean in every lanuage
+My goal is to code clean in every language
 
 ## 🛠️ Skills
 
