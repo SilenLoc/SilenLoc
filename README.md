@@ -9,10 +9,6 @@
 
 I try to code clean in every lanuage
 
-
-
-Currently learning Rust
-
 ## 🛠️ Skills
 
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer noopener">
