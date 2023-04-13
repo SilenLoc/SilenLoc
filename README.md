@@ -9,7 +9,7 @@
 
 I'm try to code clean
 
-👩‍💻 I'm currently working on silly little apps to make my life easier
+
 
 Currently learning Rust
 
