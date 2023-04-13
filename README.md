@@ -25,7 +25,7 @@ Currently learning Rust
 </a>
 <a href="https://css3.com" target="_blank" rel="noreferrer noopener">
   <img
-    src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/kotlin.svg"
+    src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/kotlin.svg"
     alt="CSS3"
     width="25"
     height="25"
