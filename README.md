@@ -6,7 +6,6 @@
 My first goal is to code clean in every language
 
 Personal Roadmap:
-- Make my website with pure HTML/CSS/TypeScript
 - Make a cli tool with Go 
 - Make a machine learning project with python
 - Make a csv parser / analyzer with spring boot/kotlin
