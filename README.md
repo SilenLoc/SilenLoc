@@ -9,6 +9,7 @@ Personal Roadmap:
 - Make a cli tool with Go 
 - Make a machine learning project with python
 - Make a csv parser / analyzer with spring boot/kotlin
+- Create a csv viewer, read only, rich client with haskell
 
 
 ## 🛠️ Skills
