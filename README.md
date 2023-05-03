@@ -2,8 +2,10 @@
 
 # Hi, I'm [Silen](https://silenloc.github.io/home/)
 
+Practice typing at https://silenloc.github.io/TypeFast/
+
 ## 🚀 About Me
-My first goal is to code clean in every language
+My goal is to code clean in every language
 
 Personal Roadmap:
 - Make a cli tool with Go 
