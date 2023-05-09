@@ -7,6 +7,10 @@ Practice typing at https://silenloc.github.io/TypeFast/
 ## 🚀 About Me
 My goal is to code clean in every language
 
+## Projects
+
+Current projects are pinned repositories.
+For the Blog I currently explore many solutions, next try is with sycamore as a frontend and deployed by shuttle.rs and a backend that is serving the posts in markdown.
 
 ## 🛠️ Skills
 
