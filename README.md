@@ -39,6 +39,4 @@ For the Blog I currently explore many solutions, next try is with sycamore as a 
   />
 </a>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilenLoc&show_icons=true&count_private=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilenLoc&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
