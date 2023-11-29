@@ -4,12 +4,18 @@
 
 Practice typing at https://silenloc.github.io/TypeFast/
 
+Try out Hurl in Hurlalot at https://silenloc.github.io/hurlalot/
+
 Improve your API End-to-end test workflow by using actual access tokens with [aditus](https://github.com/SilenLoc/aditus)
 
 ## 🚀 About Me
 My goal is to code clean in every language
 
 ## Projects
+
+- https://github.com/SilenLoc/TypeFast
+- https://github.com/SilenLoc/hurlalot
+- https://github.com/SilenLoc/aditus
 
 Current projects are pinned repositories.
 
