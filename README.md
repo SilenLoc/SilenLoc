@@ -9,7 +9,10 @@ Try out Hurl in Hurlalot at https://silenloc.github.io/hurlalot/
 Improve your API End-to-end test workflow by using actual access tokens with [aditus](https://github.com/SilenLoc/aditus)
 
 ## 🚀 About Me
-My goal is to code clean in every language
+
+I code in my freetime and at work.
+I am married to a wonderful woman.
+I like to read.
 
 ## Projects
 
