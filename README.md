@@ -18,7 +18,6 @@ I like to read.
 
 - https://github.com/SilenLoc/TypeFast
 - https://github.com/SilenLoc/hurlalot
-- https://github.com/SilenLoc/aditus
 
 Current projects are pinned repositories.
 
