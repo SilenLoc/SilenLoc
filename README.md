@@ -4,6 +4,8 @@
 
 Practice typing at https://silenloc.github.io/TypeFast/
 
+Use qwitqwit to do things with dsv files at https://github.com/Qwitqwit
+
 Try out Hurl in Hurlalot at https://silenloc.github.io/hurlalot/
 
 ## 🚀 About Me
