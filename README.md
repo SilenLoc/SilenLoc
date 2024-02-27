@@ -14,6 +14,9 @@ I code in my freetime and at work.
 I am married to a wonderful woman.
 I like to read.
 
+## Talks
+- [I like my API tests raw](https://github.com/SilenLoc/baselOne2024)
+
 ## Projects
 
 - https://github.com/SilenLoc/TypeFast
