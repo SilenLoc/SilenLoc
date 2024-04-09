@@ -2,9 +2,11 @@
 
 # Hi, I'm [Silen](https://silenloc.github.io/home/)
 
-Practice typing at https://silenloc.github.io/TypeFast/
+Practice typing with no lags at https://silenloc.github.io/TypeFast/
 
 Use qwitqwit to do things with dsv files at https://github.com/Qwitqwit
+- https://github.com/Qwitqwit/qwit-cli
+- https://github.com/Qwitqwit/qwit-desktop
 
 Try out Hurl in Hurlalot at https://silenloc.github.io/hurlalot/
 
@@ -19,10 +21,7 @@ I like to read.
 
 ## Projects
 
-- https://github.com/SilenLoc/TypeFast
-- https://github.com/SilenLoc/hurlalot
-
-Current projects are pinned repositories.
+Current projects are pinned repositories and Qwitqwit
 
 ## 🛠️ Skills
 
