@@ -2,28 +2,25 @@
 
 # Hi, I'm [Silen](https://silenloc.github.io/home/)
 
-Practice typing with no lags at https://silenloc.github.io/TypeFast/
-
-Use qwitqwit to do things with dsv files at https://github.com/Qwitqwit
-- https://github.com/Qwitqwit/qwit-cli
-- https://github.com/Qwitqwit/qwit-desktop
-
-Find the games I try to build at: https://github.com/Plain-Raw
-
-Try out Hurl in Hurlalot at https://silenloc.github.io/hurlalot/
-
-## 🚀 About Me
-
-I code in my freetime and at work.
-I am married to a wonderful woman.
-I like to read.
 
 ## Talks
 - [I like my API tests raw](https://github.com/SilenLoc/baselOne2024)
 
 ## Projects
 
-Current projects are pinned repositories and Qwitqwit
+- Practice typing with no lags at [TypeFast](https://silenloc.github.io/TypeFast/)
+
+- Use qwitqwit to do things with dsv files at [Qwitqwit](https://github.com/Qwitqwit)
+  - [qwit-cli](https://github.com/Qwitqwit/qwit-cli)
+  - [qwit-desktop](https://github.com/Qwitqwit/qwit-desktop)
+
+- Game projects with [Jerome Bollinger](https://github.com/JeromeBollinger) are at [Plain-Raw](https://github.com/Plain-Raw)
+
+## 🚀 About Me
+
+I code in my freetime and at work.
+I am married to a wonderful woman.
+I like to read.
 
 ## 🛠️ Skills
 
