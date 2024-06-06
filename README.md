@@ -10,6 +10,8 @@
 
 - Practice typing with no lags at [TypeFast](https://silenloc.github.io/TypeFast/)
 
+- My projects I code while lunchtime are in [LunchTimeCode](https://github.com/LunchTimeCode)
+
 - Use qwitqwit to do things with dsv files at [Qwitqwit](https://github.com/Qwitqwit)
   - [qwit-cli](https://github.com/Qwitqwit/qwit-cli)
   - [qwit-desktop](https://github.com/Qwitqwit/qwit-desktop)
