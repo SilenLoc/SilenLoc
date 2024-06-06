@@ -4,6 +4,7 @@
 
 ## Talks
 - [I like my API tests raw](https://github.com/SilenLoc/baselOne2024)
+    
     - Company internal - 7.07.2024
     - Rust Basel Meetup - 30.07.2024
     - BaselOne - 17.10.2024
@@ -14,7 +15,7 @@
 - Practice typing with no lags at [TypeFast](https://silenloc.github.io/TypeFast/)
 - Checkout my Hurl playground [Hurlalot](https://lunchtimecode.github.io/hurlalot/)
 - My first [egui web app](https://lunchtimecode.github.io/omnis-vanitas-web/)
-- My small [website](https://silenloc.github.io/home/)
+- My [website](https://silenloc.github.io/home/)
 
 ### Organizations
 
