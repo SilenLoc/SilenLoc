@@ -29,7 +29,7 @@
 - I am married to a wonderful woman.
 - I like to read.
 
-## You figure
+## A collection of the tech I use
 <hr>
 <p align="center">
   <a href="#"><img src="http://img.shields.io/static/v1?label=%20&message=Rust&color=000000&style=for-the-badge&logo=rust"></a>
