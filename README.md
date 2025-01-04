@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 
-# Hi, I'm [Silen](https://silenloc.github.io/home/)
+# Hi, I'm [Silen](https://me.silenlocatelli.ch/)
 
 ## Talks
 - [I like my API tests raw](https://github.com/SilenLoc/baselOne2024)
