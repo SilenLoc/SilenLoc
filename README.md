@@ -20,7 +20,6 @@
 ### Organizations
 
 - My projects I code during lunchtime [LunchTimeCode](https://github.com/LunchTimeCode)
-- My projects I code around the topic of csv / dsv files [Qwitqwit](https://github.com/Qwitqwit)
 - My projects around games with [Jerome Bollinger](https://github.com/JeromeBollinger) [Plain-Raw](https://github.com/Plain-Raw)
 
 ## About Me
