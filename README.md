@@ -8,6 +8,7 @@
     - Company internal - 7.07.2024
     - Rust Basel Meetup - 30.07.2024
     - BaselOne - 17.10.2024
+    - PHP Symfony - 09.04.2025 - [hurl-talk-php](https://github.com/SilenLoc/hurl-talk-php)
 
 ## Projects
 
