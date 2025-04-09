@@ -2,6 +2,8 @@
 
 # Hi, I'm [Silen](https://me.silenlocatelli.ch/)
 
+### [Rust-Basel](https://rust-basel.ch/)
+
 ## Talks
 - [I like my API tests raw](https://github.com/SilenLoc/baselOne2024)
     
@@ -11,6 +13,7 @@
     - PHP Symfony - 09.04.2025 - [hurl-talk-php](https://github.com/SilenLoc/hurl-talk-php)
 
 ## Projects
+
 
 ### Online
 - Practice typing with no lags at [TypeFast](https://silenloc.github.io/TypeFast/)
