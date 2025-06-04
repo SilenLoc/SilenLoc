@@ -17,7 +17,6 @@
 
 ### Online
 - Practice typing with no lags at [TypeFast](https://silenloc.github.io/TypeFast/)
-- Checkout my Hurl playground [Hurlalot](https://lunchtimecode.github.io/hurlalot/)
 - My first [egui web app](https://lunchtimecode.github.io/omnis-vanitas-web/)
 - My [website](https://me.silenlocatelli.ch/)
 - A [job post scraper](https://jobs.silenlocatelli.ch/) for my friend 
