@@ -13,7 +13,7 @@
     - PHP Symfony - 09.04.2025 - [hurl-talk-php](https://github.com/SilenLoc/hurl-talk-php)
 
 - [HTMX with rust](https://github.com/rust-basel/htmx-workshop-meetup-10)
-  - Rust Basel Workshop
+  - [Rust Basel Workshop](https://rust-basel.ch/blog/rust-workshop-3/) - 23.11.2024
 
 ## Projects
 
