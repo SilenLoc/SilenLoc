@@ -30,7 +30,9 @@
 ### Organizations
 
 - My projects I code during lunchtime [LunchTimeCode](https://github.com/LunchTimeCode)
-- My projects around games with [Jerome Bollinger](https://github.com/JeromeBollinger) [Plain-Raw](https://github.com/Plain-Raw)
+- A project to minimize mental load: https://github.com/rezi-labs
+- Where I work: https://github.com/Optravis-LLC
+- Where we make community: https://github.com/rust-basel
 
 ## About Me
 
@@ -38,21 +40,4 @@
 - I am married to a wonderful woman.
 - I like to read and play handball.
 
-## A collection of the tech I use
-<hr>
-<p align="center">
-  <a href="#"><img src="http://img.shields.io/static/v1?label=%20&message=Rust&color=000000&style=for-the-badge&logo=rust"></a>
-  <a href="#"><img src="http://img.shields.io/static/v1?label=%20&message=Kotlin&color=FFA500&style=for-the-badge&logo=kotlin"></a>
-  <a href="#"><img src="http://img.shields.io/static/v1?label=%20&message=Java&color=FF0000&style=for-the-badge&logo=java"></a>
-  <a href="#"><img src="http://img.shields.io/static/v1?label=%20&message=PHP&color=FFFFFF&style=for-the-badge&logo=php"></a>
-  <a href="#"><img src="http://img.shields.io/static/v1?label=%20&message=TypeScript&color=007ACC&style=for-the-badge&logo=typescript"></a>
-  <a href="#"><img src="http://img.shields.io/static/v1?label=%20&message=JavaScript&color=212121&style=for-the-badge&logo=javascript"></a>
-  <a href="#"><img src="http://img.shields.io/static/v1?label=%20&message=HTML&color=212121&style=for-the-badge&logo=html5"></a>
-  <a href="#"><img src="http://img.shields.io/static/v1?label=%20&message=Tailwind&color=FFFFFF&style=for-the-badge&logo=tailwind"></a>
-  <a href="#"><img src="http://img.shields.io/static/v1?label=%20&message=Tauri&color=000000&style=for-the-badge&logo=tauri"></a>
-  <a href="#"><img src="http://img.shields.io/static/v1?label=%20&message=React&color=DD0031&style=for-the-badge&logo=react"></a>
-  <a href="#"><img src="http://img.shields.io/static/v1?label=%20&message=Material%20Design&color=whitesmoke&style=for-the-badge&logo=material-design"></a>
-  <a href="#"><img src="http://img.shields.io/static/v1?label=%20&message=git&color=212121&style=for-the-badge&logo=git"></a>
-  <a href="#"><img src="http://img.shields.io/static/v1?label=%20&message=kubernetes&color=212121&style=for-the-badge&logo=kubernetes"></a>
-</p>
-<hr>
+
