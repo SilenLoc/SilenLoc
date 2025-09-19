@@ -28,16 +28,32 @@
 - A [job post scraper](https://jobs.silenlocatelli.ch/) for my friend 
 
 ### Organizations
-
+- Where I work [Optravis](https://github.com/Optravis-LLC)
 - My projects I code during lunchtime [LunchTimeCode](https://github.com/LunchTimeCode)
-- A project to reduce mental load: https://github.com/rezi-labs
-- Where I work: https://github.com/Optravis-LLC
-- Where we make community: https://github.com/rust-basel
+- A project to reduce mental load: [Rezi Labs](https://github.com/rezi-labs)
+- Where we make community: [Rust Basel](https://github.com/rust-basel)
 
 ## About Me
 
 - I code in my freetime and at work.
 - I am married to a wonderful woman.
 - I like to read and play handball.
+
+## People I look up to
+
+- [Casey Muratori](https://caseymuratori.com/)
+
+## Books I like
+
+- Marcus Aurelius Meditations
+- Senaca's Letters
+- Randall Munroe - What if? One and Two
+- [hypermedia systems](https://hypermedia.systems/book/contents/)
+- Primo Levi - Ist das ein Mensch?
+- Primo Levi - Atempause
+- Berthold Brecht - Leben des Galilei
+- Reinmar - Lieder
+- Eragon
+- Harry Potter
 
 
