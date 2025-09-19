@@ -30,7 +30,7 @@
 ### Organizations
 
 - My projects I code during lunchtime [LunchTimeCode](https://github.com/LunchTimeCode)
-- A project to minimize mental load: https://github.com/rezi-labs
+- A project to reduce mental load: https://github.com/rezi-labs
 - Where I work: https://github.com/Optravis-LLC
 - Where we make community: https://github.com/rust-basel
 
