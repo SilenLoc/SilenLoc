@@ -22,6 +22,7 @@
 
 
 ### Online
+- My [blog](https://blog.silenlocatelli.ch/)
 - Practice typing with no lags at [TypeFast](https://silenloc.github.io/TypeFast/)
 - My first [egui web app](https://lunchtimecode.github.io/omnis-vanitas-web/)
 - My [website](https://me.silenlocatelli.ch/)
