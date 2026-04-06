@@ -2,6 +2,10 @@
 
 # Hi, I'm [Silen](https://me.silenlocatelli.ch/)
 
+I do not use github anymore for my own projects.
+
+Checkout all my projects at [git backend](https://fig.silenlocatelli.ch)
+
 ### [Rust-Basel](https://rust-basel.ch/)
 
 ## Talks
@@ -17,22 +21,6 @@
 
 - [Your first (Rust) CLI project](https://github.com/rust-basel/cli-meetup-12)
   - [Rust Basel Meetup - KHaus](https://www.khaus.ch/en/besuchen/events/?start=2025-07#event-2025-07-02-rust-meetup) - 02.07.2025
-
-## Projects
-
-
-### Online
-- My [blog](https://blog.silenlocatelli.ch/)
-- Practice typing with no lags at [TypeFast](https://silenloc.github.io/TypeFast/)
-- My first [egui web app](https://lunchtimecode.github.io/omnis-vanitas-web/)
-- My [website](https://me.silenlocatelli.ch/)
-- A [job post scraper](https://jobs.silenlocatelli.ch/) for my friend 
-
-### Organizations
-- Where I work [Optravis](https://github.com/Optravis-LLC)
-- My projects I code during lunchtime [LunchTimeCode](https://github.com/LunchTimeCode)
-- A project to reduce mental load: [Rezi Labs](https://github.com/rezi-labs)
-- Where we make community: [Rust Basel](https://github.com/rust-basel)
 
 ## About Me
 
